@@ -8,7 +8,6 @@ import android.media.AudioManager;
 import android.media.AudioTrack;
 import android.media.MediaRecorder.AudioSource;
 import android.media.SoundPool;
-import android.media.audiofx.AudioEffect;
 import android.view.SoundEffectConstants;
 
 /**

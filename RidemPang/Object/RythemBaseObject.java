@@ -5,7 +5,6 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.graphics.RectF;
-import android.renderscript.BaseObj;
 import android.util.Log;
 import Technology.Control.AnimatedGameButton;
 import Technology.Event.EventClassInfo;
